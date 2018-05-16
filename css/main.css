@@ -1,13 +1,17 @@
 
-   
-   #clock {
-      text-align: center;
-      margin-top: 10%;
-      font-size: 120px;
-      font-family: Baskerville, Georgia;
-     color:rgb(245, 247, 218);
-   }
-   body{
+  body { font-family: sans-serif;
+
     background-repeat: no-repeat, repeat;
     background-size:1300px;}
    
+
+  
+  #container 
+  { width:400px;
+    margin:auto;}
+  h1 { font-size:10em;
+  }
+  #time{
+    color:rgb(238, 236, 227);
+    font-size: 156px;
+  }
